@@ -1,0 +1,18 @@
+Algorithm Expert Solutions in Python
+This repository contains solutions to all of the data structure and algorithms questions on Algorithm Expert in Python. The solutions are written in a clear and concise way, and they are also optimized for speed and memory usage.
+
+How to use
+To use the solutions, simply clone the repository and open the file for the question that you want to solve. The file will contain a detailed explanation of the problem, as well as the Python code for the solution.
+
+Contributing
+If you would like to contribute to the repository, please create a new pull request. Your pull request should include a new file for the question that you are solving, as well as a detailed explanation of your solution.
+
+License
+The code in this repository is licensed under the MIT License.
+
+Here are some additional things that you can mention in your README:
+
+The difficulty level of each question.
+The time and space complexity of each solution.
+Any tips or tricks that you found helpful when solving the questions.
+A link to the AlgoExpert website(algoexpert.ip) so that people can learn more about the questions.
